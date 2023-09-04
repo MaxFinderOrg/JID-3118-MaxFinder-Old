@@ -19,7 +19,7 @@ export function HomeScreen() {
 
         <Separator />
         <Paragraph ta="center">
-          Made by JD-3118
+          Made by Group JD-3118
         </Paragraph>
       </YStack>
       
