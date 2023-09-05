@@ -4,6 +4,8 @@ import { useFonts } from 'expo-font'
 import { Stack } from 'expo-router'
 import { useColorScheme } from 'react-native'
 
+/* Maddy Test comment*/
+
 export default function HomeLayout() {
   const [loaded] = useFonts({
     Inter: require('@tamagui/font-inter/otf/Inter-Medium.otf'),
